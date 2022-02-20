@@ -24,13 +24,13 @@ C:
 
 `C  No  optim:`
 
-legioner@thinkpad:$ `  ./speedTest.sh   ./cNop` 
+linux@thinkpad:$ `  ./speedTest.sh   ./cNop` 
 
 Average: ``  real 0.382 user 0.379 sys 0.000``
 
 `Crystal  No  optim:`
 
-legioner@thinkpad:$ `  ./speedTest.sh   ./crystalNop` 
+linux@thinkpad:$ `  ./speedTest.sh   ./crystalNop` 
 
 Average: ``  real 5.083 user 5.045 sys 0.001``
 #
@@ -38,7 +38,7 @@ Average: ``  real 5.083 user 5.045 sys 0.001``
 
 `C  Optim:`
                                                                                                        
-legioner@thinkpad:$ `  ./speedTest.sh   ./cOp`                         
+linux@thinkpad:$ `  ./speedTest.sh   ./cOp`                         
 
 Average: ``  real 0.112 user 0.111 sys 0.000``
 ` `
@@ -46,7 +46,7 @@ Average: ``  real 0.112 user 0.111 sys 0.000``
 
 `Crystal  Opt:`
                                                                                                        
-legioner@thinkpad:$ `  ./speedTest.sh   ./crystalOp`                         
+linux@thinkpad:$ `  ./speedTest.sh   ./crystalOp`                         
 
 Average: ``  real 0.219 user 0.217 sys 0.000``
                                                                                                        
