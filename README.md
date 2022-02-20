@@ -19,8 +19,8 @@ C:
 
 ```$ gcc c.c -o cOp -O3```
 
-#
-#
+
+
 
 `C  No  optim:`
 
