@@ -1,3 +1,7 @@
+## Crystal language vs. C language
+compare Array with 1000 elements sorting
+
+
 ## Make speedTest.sh executable:
 ```$ chmod +x speedTest.sh```
 
